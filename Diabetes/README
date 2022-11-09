@@ -1,2 +1,11 @@
 Diabetes Health Indicator Dataset 
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
+Dataset cleaning notebook
+https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook/notebook
+
+Original Dataset
+https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system?select=2015.csv
+
+Survey documentations for data collection
+https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf
